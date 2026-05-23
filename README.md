@@ -3,7 +3,7 @@
 
 **'coding•editing'**
 
-**'Wescom Road San Miguel Puerto Princesa City'**
+**'📍Wescom Road San Miguel Puerto Princesa City'**
 
 | Role | institution|
 |------|------------|
