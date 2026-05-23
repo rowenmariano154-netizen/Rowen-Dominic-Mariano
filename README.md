@@ -9,18 +9,18 @@
 |------|------------|
 | BSELE-student| FULLBRIGHT COLLEGE|
 
-## FAVORITE FOOD
+|FAVORITE FOOD|
+|-------------|
+|•ADOBO|
+|•MINUDO|
+|•BEEF STEAK|
+••SISIG|
 
-•ADOBO
-•MINUDO
-•BEEF STEAK
-•SISIG
-
-FAVORITE DRINKS
-
-•COKE
-•SPRITE
-•MOUNTAIN DEW
+|FAVORITE DRINKS|
+|---------------|
+|•COKE|
+|•SPRITE|
+|•MOUNTAIN DEW|
 
 
 |HOBBY|
