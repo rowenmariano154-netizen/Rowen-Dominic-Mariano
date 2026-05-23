@@ -17,6 +17,14 @@
 |•PLAYING BASKETBALL 🏀|
 |•TRAVERING🧳|
 
+##SKILLS
+
+|SKILSS| LEVEL 1|
+|------|--------|
+| C++ | Beginner |
+| Arduino | Beginner |
+| PBC | Beginner |
+
 
 
 
