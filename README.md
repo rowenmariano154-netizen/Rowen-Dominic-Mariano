@@ -7,7 +7,7 @@
 
 | Role | institution|
 |------|------------|
-| BSELE| FULLBRIGHT COLLEGE|
+| BSELE-student| FULLBRIGHT COLLEGE|
 
 |HOBBY|
 |------|
