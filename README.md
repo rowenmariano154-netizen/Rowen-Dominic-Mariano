@@ -9,6 +9,11 @@
 |------|------------|
 | BSELE-student| FULLBRIGHT COLLEGE|
 
+|FAMILY|
+|------|
+|WE ARE TWO SIBLINGS|
+|TWO BOYS|
+
 |FAVORITE FOOD🍲|
 |-------------|
 |•ADOBO|
@@ -40,6 +45,9 @@
 | Arduino | Beginner |
 | PBC | Beginner |
 
+___
+
+**THANK YOU FOR VISITING MY PORTFOLIO**
 
 
 
