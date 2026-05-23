@@ -8,5 +8,5 @@
 |------|------------|
 | student | Engineering student|
 
-SKILLS
+**SKILLS
 
