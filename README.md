@@ -11,6 +11,6 @@
 
 **SKILLS**
 
-•BATAK MAG LULU
+•
 
 
