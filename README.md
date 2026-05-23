@@ -10,6 +10,7 @@
 | student | Engineering student|
 
 **SKILLS**
+
 **•BATAK MAG LULU**
 
 
