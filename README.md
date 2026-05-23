@@ -9,10 +9,12 @@
 |------|------------|
 | student | Engineering student|
 
-|SKILLS|
+|HOBBY|
 |------|
 |•DRAWING|
 |•COKING|
+|•BASKETBALL|
+|•TRAVERING|
 
 
 
