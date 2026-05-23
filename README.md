@@ -31,7 +31,7 @@
 |•PLAYING BASKETBALL 🏀|
 |•TRAVERING🧳|
 
-##SKILLS
+**"SKILLS"**
 
 |SKILSS| LEVEL 1|
 |------|--------|
