@@ -7,7 +7,7 @@
 
 | Role | institution|
 |------|------------|
-| student | Engineering student|
+| BSELE| FULLBRIGHT COLLEGE|
 
 |HOBBY|
 |------|
