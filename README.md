@@ -9,8 +9,11 @@
 |------|------------|
 | student | Engineering student|
 
-**SKILLS**
+|SKILLS|
+|------|
+|•DRAWING|
+|•COKING|
 
-•
+
 
 
